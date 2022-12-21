@@ -9,7 +9,8 @@ Hi! My name is Thanmay Jayakumar, and I am a final year UG student in Electronic
 
 I developed my interest in Deep Learning and Natural Language Processing (NLP) at IvLabs, the Robotics & AI Lab of VNIT, where I reviewed and implemented state-of-the-art architectures.
 
-Apart from NLP, linguistics also captivates me. I have done significant study of various languages and their morphology, such as German, Persian, Malay, Chinese and Indic languages. I aspire to alleviate language barriers by improving tools for multilingual communication.
+Apart from NLP, linguistics also captivates me. I have done significant study of various languages and their morphology, such as German, Persian, Malay, Chinese and Indic languages. 
+I aspire to alleviate language barriers by improving tools for multilingual communication.
 
 [CV / Resume]({{ site.url }}/assets/cv.pdf)
 
