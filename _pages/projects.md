@@ -1,28 +1,18 @@
 ---
-layout: archive
-title: "Projects"
+layout: page
+title: Projects
 permalink: /projects/
-author_profile: true
+order: 2
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-## Spoken Term Detection
-### Research Intern at Indian Institute of Technology, Kanpur, India. [[Project Report]](https://drive.google.com/file/d/1R1s4v7eVY_E23BnEazHlMeAqAmnNEr43/view?usp=sharing) [[Presentation]](https://drive.google.com/file/d/10bY3bLbavWcnO55Mnepy46Sl3WTqQLdn/view?usp=share_link)
+## Spoken Term Detection (Audio Retrieval) [[Project Report]](https://drive.google.com/file/d/1R1s4v7eVY_E23BnEazHlMeAqAmnNEr43/view?usp=sharing) [[Presentation]](https://drive.google.com/file/d/10bY3bLbavWcnO55Mnepy46Sl3WTqQLdn/view?usp=share_link)
+### Research Intern at Indian Institute of Technology, Kanpur, India.
   * Aimed at solving the task of Spoken Term Detection (STD) to retrieve queried speech files in an audio database.
   * Implemented three different approaches to STD for query localization, classification and location suggestion in a database.
   * Analyzed an optimal combination of the above, in order to work towards building a language-agnostic system.
 
-## Statistical Machine Translation
-### Associated with Language Technologies Research Centre, International Institute of Information Technology, Hyderabad, India. [[Presentation]](https://drive.google.com/file/d/1ws3ViFsy404ads5mE8fe7KTQh-Peost-/view?usp=sharing)
+## Statistical Machine Translation [[Presentation]](https://drive.google.com/file/d/1ws3ViFsy404ads5mE8fe7KTQh-Peost-/view?usp=sharing)
+### Associated with Language Technologies Research Centre, International Institute of Information Technology, Hyderabad, India. 
   * Aimed at investigating the effects of different evaluation metrics during the tuning phrase of an SMT model.
   * Compared the results of models tuned on BLEU, chrF, TER, WER and PER on a subset of the IndicWAT corpus.
 
