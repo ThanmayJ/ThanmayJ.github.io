@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 30%; padding: 6px;" src=" {{ site.url }}/assets/profile.png">
+<img style="float: right; width: 40%; padding: 6px;" src=" {{ site.url }}/assets/profile.png">
 
 Hi! My name is Thanmay Jayakumar, and I am a final year UG student in Electronics & Communication Engineering at Visvesvaraya National Institute of Technology, Nagpur, India.
 
