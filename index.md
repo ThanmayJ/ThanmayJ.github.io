@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile.png">
 
-Hi! I'm Thanmay Jayakumar, and I am a final year UG student in Electronics & Communication Engineering at Visvesvaraya National Institute of Technology, Nagpur, India.
+Hi! My name is Thanmay Jayakumar, and I am a final year UG student in Electronics & Communication Engineering at Visvesvaraya National Institute of Technology, Nagpur, India.
 
 I developed my interest in Deep Learning and Natural Language Processing (NLP) at IvLabs, the Robotics & AI Lab of VNIT, where I reviewed state-of-the-art architectures like RNNs, Seq2Seq and Transformers and implemented them.
 
@@ -27,4 +27,5 @@ Email ID: [thanmay2030@gmail.com](mailto:thanmay2030@gmail.com)
   <tr><td><b>Sep 2022:</b></td><td>Started work on Automatic Image Captioning, supervised by Prof. Anamika Singh, VNIT Nagpur.</td></tr>
   <tr><td><b>Sep 2022:</b></td><td>Started work on Open Information Extraction, supervised by Prof. Mansi Radke, VNIT Nagpur.</td></tr>
   <tr><td><b>Jul 2022:</b></td><td>Accepted into the IIIT-H's Advanced Summer School on NLP at Hyderabad, India. Project guided by Saumitra Yadav and Prof. Manish Shrivastava</td></tr>
-  <tr><td><b>May 2022:</b></td><td>Started my Summer Internship at Indian Institute of Technology Kanpur, supervised by Prof. Vipul Arora.</td></tr>
+  <tr><td><b>May 2022:</b></td><td>Started my Summer Internship at MADHAV Lab, Indian Institute of Technology, Kanpur, supervised by Prof. Vipul Arora. Project on Spoken Term Detection (Audio Retrieval).</td></tr>
+  <tr><td><b>May 2022:</b></td><td>Started my Summer Internship at IvLabs, Visvesvaraya National Institute of Technology, supervised by Prof. Shital Chiddarwar. Project on Automatic Speaker Recognition.</td></tr>
