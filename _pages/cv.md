@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: archive
+author_profile: true
 title: CV
 permalink: /files/cv.pdf
 ---
