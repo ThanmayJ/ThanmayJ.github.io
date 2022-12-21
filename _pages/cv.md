@@ -1,8 +1,8 @@
 ---
-layout: page
-title: CV
-permalink: /assets/cv.pdf
-order: 3
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
 ---
 
-[1-page CV]({{ site.url }}/assets/cv.pdf)
+[1-page CV]({{ site.url }}/files/cv.pdf)

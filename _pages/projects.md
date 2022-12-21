@@ -1,9 +1,19 @@
 ---
-layout: page
-title: Projects
+layout: archive
+title: "Projects"
 permalink: /projects/
-order: 2
+author_profile: true
 ---
+
+<!-- {% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
 
 ## Spoken Term Detection
 ### Research Intern at Indian Institute of Technology, Kanpur, India. [[Project Report]](https://drive.google.com/file/d/1R1s4v7eVY_E23BnEazHlMeAqAmnNEr43/view?usp=sharing) [[Presentation]](https://drive.google.com/file/d/10bY3bLbavWcnO55Mnepy46Sl3WTqQLdn/view?usp=share_link)
