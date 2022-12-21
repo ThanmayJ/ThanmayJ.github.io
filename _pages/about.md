@@ -1,11 +1,8 @@
 ---
 layout: page
-title: "Thanmay Jayakumar"
-permalink: /
-excerpt: "About me"
-redirect_from: 
-  - /about/
-  - /about.html
+title: About
+permalink: /about/
+order: 1
 ---
 
 {% include JB/setup %}
