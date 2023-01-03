@@ -12,7 +12,7 @@ I developed my interest in Deep Learning and Natural Language Processing (NLP) a
 Apart from NLP, linguistics also captivates me. I have done significant study of various languages and their morphology, such as German, Persian, Malay, Chinese and several Indic languages.<br />
 I aspire to alleviate language barriers by improving tools for multilingual communication.
 
-[CV / Resume]({{ site.url }}/assets/cv.pdf)
+[CV / Resume]({{ site.url }}/assets/Thanmay_CV.pdf)
 
 Email ID: [thanmay2030@gmail.com](mailto:thanmay2030@gmail.com)  
 
