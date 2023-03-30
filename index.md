@@ -24,7 +24,7 @@ Email ID: [thanmay2030@gmail.com](mailto:thanmay2030@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Apr 2022:</b></td><td>Our paper, <a href="https://drive.google.com/file/d/1BFwqy4B7zvKwtVq90WW_7WS0YydumbTw/view?usp=share_link">Attending to Transforms: A Survey on Transformer based Image Captioning</a> has been accepted at <a href="https://vnit.ac.in/pcems2023/">PCEMS 2023</a>!</td></tr>
+  <tr><td><b>Apr 2023:</b></td><td>Our paper, <a href="https://drive.google.com/file/d/1BFwqy4B7zvKwtVq90WW_7WS0YydumbTw/view?usp=share_link">Attending to Transforms: A Survey on Transformer based Image Captioning</a> has been accepted at <a href="https://vnit.ac.in/pcems2023/">PCEMS 2023</a>!</td></tr>
   <tr><td><b>Nov-Dec 2022:</b></td><td>Awarded the D&I full sponsorship to attend <a href="https://2022.emnlp.org/">EMNLP 2022</a> at Abu Dhabi, UAE.</td></tr>
   <tr><td><b>Aug 2022:</b></td><td>Started work on Open Information Extraction, supervised by Prof. Mansi Radke, VNIT Nagpur.</td></tr>
   <tr><td><b>Aug 2022:</b></td><td>Started work on Automatic Image Captioning, supervised by Prof. Anamika Singh, VNIT Nagpur.</td></tr>
