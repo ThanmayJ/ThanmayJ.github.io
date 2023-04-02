@@ -22,18 +22,18 @@ order: 1
 
 #### Associated with IvLabs, Visvesvaraya National Institute of Technology, India.
 
-##### Sentiment Analysis [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/text_classification)
+**Sentiment Analysis [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/text_classification)**
 * Aimed at the automatic determination of polarity in text.
 * Compared the results of different architectures such as LSTM, FastText and BERT on the IMDb dataset.
 
-##### Automatic Speech Recognition [[GitHub]](https://github.com/ThanmayJ/automatic-speech-recognition)
+**Automatic Speech Recognition [[GitHub]](https://github.com/ThanmayJ/automatic-speech-recognition)**
 * Aimed at developing an end-to-end ASR system.
 * Deployed Deep Self-Attention Networks [[arxiv]](https://arxiv.org/pdf/1904.13377.pdf) in Keras using the LJ Speech Dataset.
 
-##### Neural Machine Translation [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/neural_machine_translation#summary)
+**Neural Machine Translation [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/neural_machine_translation#summary)**
 * Studied papers presenting novel architectures for NMT.
 * Implemented Encoder-Decoder architectures in PyTorch using the Multi30k Dataset for German-English.
 
-##### Name Generation [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/char_rnns#summary)
+**Name Generation [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/char_rnns#summary)**
 * Generated dinosaur names by developing a character-level Language Model using PyTorch.
 * Compared the results of Vanilla RNN, LSTM and GRU.
