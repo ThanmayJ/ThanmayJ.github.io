@@ -8,7 +8,7 @@
 # Site settings
 title: Thanmay Jayakumar
 full_name: Thanmay Jayakumar
-email: thanmayjayakumar@gmail.com
+email: [firstname][lastname][at]gmail[dot]com
 # email2: thanmay.jayakumar@students.vnit.ac.in
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
