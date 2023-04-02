@@ -14,7 +14,7 @@ I aspire to alleviate language barriers by improving tools for multilingual comm
 
 [CV / Resume]({{ site.url }}/assets/Thanmay_CV.pdf)
 
-Email ID: [thanmay2030@gmail.com](mailto:thanmay2030@gmail.com)  
+Email ID: [thanmayjayakumar@gmail.com](mailto:thanmay2030@gmail.com)  
 
 **I am actively looking for pre-doctoral research roles in machine learning/natural language processing. If you think that I may be a good fit, please do reach out to me!**
 
