@@ -16,7 +16,7 @@ url: "https://ThanmayJ.github.io" # the base hostname & protocol for your site
 github_username:  ThanmayJ
 twitter_username: yamnaht
 linkedin_username: thanmay
-include: ['_pages','_publications']
+include: ['_pages']
 #footer-links-active:
 #  stackoverflow: true
 
