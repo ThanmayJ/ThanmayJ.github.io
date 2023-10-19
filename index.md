@@ -16,8 +16,6 @@ I aspire to alleviate language barriers by improving tools for multilingual comm
 
 Email ID: [thanmayjayakumar@gmail.com](mailto:thanmay2030@gmail.com)  
 
-**I am actively looking for pre-doctoral research roles in machine learning/natural language processing. If you think that I may be a good fit, please do reach out to me!**
-
 #### Updates
 
 <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
