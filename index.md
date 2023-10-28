@@ -23,7 +23,6 @@ Email ID: [thanmayjayakumar@gmail.com](mailto:thanmay2030@gmail.com)
 <col width="100px">
 <col width="650px">
   <tr><td><b>Apr 2023:</b></td><td>Our paper, <a href="https://ieeexplore.ieee.org/document/10136098/">Attending to Transforms: A Survey on Transformer-based Image Captioning</a> has been accepted at <a href="https://vnit.ac.in/pcems2023/">PCEMS 2023</a>!</td></tr>
-  <tr><td><b>Nov-Dec 2022:</b></td><td>Awarded the D&I full sponsorship to attend <a href="https://2022.emnlp.org/">EMNLP 2022</a> at Abu Dhabi, UAE.</td></tr>
   <tr><td><b>Aug 2022:</b></td><td>Started work on Open Information Extraction, supervised by Prof. Mansi Radke, VNIT Nagpur.</td></tr>
   <tr><td><b>Aug 2022:</b></td><td>Started work on Automatic Image Captioning, supervised by Prof. Anamika Singh, VNIT Nagpur.</td></tr>
   <tr><td><b>Jul 2022:</b></td><td>Accepted into the <a href="https://ltrc.iiit.ac.in/iasnlp2022">IIIT-H's Advanced Summer School on NLP</a> at Hyderabad, India. Project guided by Saumitra Yadav and Prof. Manish Shrivastava. Check out the <a href="https://drive.google.com/file/d/1ws3ViFsy404ads5mE8fe7KTQh-Peost-/view?usp=sharing">Project Presentation</a>.</td></tr>
