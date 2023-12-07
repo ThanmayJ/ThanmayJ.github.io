@@ -5,16 +5,16 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/profile.png">
 
-Hi! My name is Thanmay Jayakumar, and I am a final year UG student in Electronics & Communication Engineering at Visvesvaraya National Institute of Technology, Nagpur, India.
+Hi! My name is Thanmay Jayakumar, and I am an AI Resident at AI4Bhārat, Indian Institute of Technology Madras, India.
 
-I developed my interest in Deep Learning and Natural Language Processing (NLP) at IvLabs, the Robotics & AI Lab of VNIT, where I reviewed and implemented state-of-the-art architectures.
+I developed my interest in Deep Learning and Natural Language Processing (NLP) during my undergraduate at IvLabs, the Robotics & AI Lab of VNIT Nagpur, where I reviewed and implemented state-of-the-art architectures.
 
-Apart from NLP, linguistics also captivates me. I have done significant study of various languages and their morphology, such as German, Persian, Malay, Chinese and several Indic languages.<br />
+Apart from NLP, linguistics also captivates me. I have done significant study of various languages and their morphology, such as German, Persian, Indonesian, Chinese and several Indic languages.<br />
 I aspire to alleviate language barriers by improving tools for multilingual communication.
 
 [CV / Resume]({{ site.url }}/assets/Thanmay_CV.pdf)
 
-Email ID: [thanmayjayakumar@gmail.com](mailto:thanmay2030@gmail.com)  
+Email ID: \[firstname\]\[lastname\]@gmail.com  
 
 #### Updates
 
@@ -22,6 +22,9 @@ Email ID: [thanmayjayakumar@gmail.com](mailto:thanmay2030@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>Dec 2023:</b></td><td>I'm in Singapore to attend EMNLP 2023. Please do attend my presentation at the NLLP Workshop!</td></tr>
+  <tr><td><b>Oct 2023:</b></td><td>Our paper titled <a href="https://arxiv.org/abs/2311.08890">Large Language Models are legal but they are not: Making the case for a powerful LegalLLM</a> has been accepted at <a href="https://nlpw.org/">Natural Legal Language Processing Workshop</a> at EMNLP 2023! This is my first workshop paper at a *ACL venue.</td></tr>
+  <tr><td><b>Sep 2023:</b></td><td>Delighted to join <a href="https://ai4bharat.iitm.ac.in/">AI4Bharat</a> as an AI Resident.</td></tr>
   <tr><td><b>Apr 2023:</b></td><td>Our paper, <a href="https://ieeexplore.ieee.org/document/10136098/">Attending to Transforms: A Survey on Transformer-based Image Captioning</a> has been accepted at <a href="https://vnit.ac.in/pcems2023/">PCEMS 2023</a>!</td></tr>
   <tr><td><b>Aug 2022:</b></td><td>Started work on Open Information Extraction, supervised by Prof. Mansi Radke, VNIT Nagpur.</td></tr>
   <tr><td><b>Aug 2022:</b></td><td>Started work on Automatic Image Captioning, supervised by Prof. Anamika Singh, VNIT Nagpur.</td></tr>
