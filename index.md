@@ -7,10 +7,11 @@ layout: page
 
 Hi! My name is Thanmay Jayakumar, and I am an AI Resident at AI4Bhārat, Indian Institute of Technology Madras, India.
 
-I developed my interest in Deep Learning and Natural Language Processing (NLP) during my undergraduate at IvLabs, the Robotics & AI Lab of VNIT Nagpur, where I reviewed and implemented state-of-the-art architectures.
+Broadly, my research interests are related to investigating the cross-lingual capabilities of Large Language Models (LLMs) and extending their support to low-resource languages, and I am guided by Dr. Anoop Kunchukuttan, Dr. Raj Dabre and Prof. Mitesh Khapra. I aspire to alleviate language barriers by improving tools for multilingual communication. I also work on building open-source datasets and models for Indian languages. Previously, I worked on Audio Retrieval during my undergraduate summer internship at Indian Institute of Technology Kanpur, supervised by Prof. Vipul Arora.
 
-Apart from NLP, linguistics also captivates me. I have done significant study of various languages and their morphology, such as German, Persian, Indonesian, Chinese and several Indic languages.<br />
-I aspire to alleviate language barriers by improving tools for multilingual communication.
+I completed my Bachelors of Technology in Electronics & Communication Engineering at Visvesvaraya National Institute of Technology (VNIT) Nagpur. I developed my interest in Deep Learning and Natural Language Processing (NLP) at IvLabs, the Robotics & AI Lab of VNIT Nagpur, where I reviewed and implemented state-of-the-art architectures. At IvLabs, I also served as a mentor for junior undergraduates interested in pursuing NLP research. During my final year, I worked under Prof. Mansi Radke on Open Information Extraction and Prof. Anamika Singh on Image Captioning, the latter of which was for my bachelors thesis.
+
+Apart from NLP, linguistics also captivates me. I have done significant study of various languages and their morphology, such as German, Persian, Indonesian, Chinese and several Indic languages. Please do say hi in your langauage and maybe we can have a chat in your native tongue. :)<br />
 
 [CV / Resume]({{ site.url }}/assets/Thanmay_CV.pdf)
 
