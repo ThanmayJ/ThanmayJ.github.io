@@ -23,9 +23,9 @@ Email ID: \[firstname\]\[lastname\]@gmail.com
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Apr 2023:</b></td><td>Our work, <i>RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models models via Romanization.</i> has been accepted at ACL 2024 Main Conference!</td></tr>
-  <tr><td><b>Feb 2023:</b></td><td>Delighted to announce that our undergraduate work has been accepted at LREC-COLING 2024 Main Conference! Grateful to Prof. Mansi Radke for her continuous support and guidance.</td></tr>
-  <tr><td><b>Jan 2023:</b></td><td>Announcing our first Hindi instruction-tuned model Airavata. Do read the technical report for more details!</td></tr>
+  <tr><td><b>Apr 2024:</b></td><td>Our work, <i>RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models models via Romanization.</i> has been accepted at ACL 2024 Main Conference!</td></tr>
+  <tr><td><b>Feb 2024:</b></td><td>Delighted to announce that our undergraduate work has been accepted at LREC-COLING 2024 Main Conference! Grateful to Prof. Mansi Radke for her continuous support and guidance.</td></tr>
+  <tr><td><b>Jan 2024:</b></td><td>Announcing our first Hindi instruction-tuned model Airavata. Do read the technical report for more details!</td></tr>
   <tr><td><b>Dec 2023:</b></td><td>I'm in Singapore to attend EMNLP 2023. Please do attend my presentation at the NLLP Workshop!</td></tr>
   <tr><td><b>Oct 2023:</b></td><td>Our paper titled <a href="https://arxiv.org/abs/2311.08890">Large Language Models are legal but they are not: Making the case for a powerful LegalLLM</a> has been accepted at <a href="https://nlpw.org/">Natural Legal Language Processing Workshop</a> at EMNLP 2023! This is my first workshop paper at a *ACL venue.</td></tr>
   <tr><td><b>Sep 2023:</b></td><td>Delighted to join <a href="https://ai4bharat.iitm.ac.in/">AI4Bharat</a> as an AI Resident.</td></tr>
