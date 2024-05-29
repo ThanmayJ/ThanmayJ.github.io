@@ -18,7 +18,7 @@ Jay Gala, <i>Thanmay Jayakumar</i>, Jaavid Aktar Husain, Mohammed Safi Ur Rahman
 **Technical Report**
 * [Large Language Models are legal but they are not: Making the case for a powerful LegalLLM](https://arxiv.org/abs/2311.08890)  
 <i>Thanmay Jayakumar</i>, Fauzan Farooqui, and Luqman Farooqui.
-**NLLP Workshop, 2023 (EMNLP 2023)**
+**NLLP Workshop (EMNLP 2023)**
 * [Attending to Transforms: A Survey on Transformer-based Image Captioning](https://ieeexplore.ieee.org/abstract/document/10136098)  
 Kshitij Ambilduke, <i>Thanmay Jayakumar</i>, Luqman Farooqui, Himanshu Padole, and Anamika Singh.
 **PCEMS 2023**
