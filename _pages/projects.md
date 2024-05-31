@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-order: 1
+order: 3
 ---
 
 **Spoken Term Detection (Audio Retrieval) [[Project Report]](https://drive.google.com/file/d/1R1s4v7eVY_E23BnEazHlMeAqAmnNEr43/view?usp=sharing) [[Presentation]](https://drive.google.com/file/d/10bY3bLbavWcnO55Mnepy46Sl3WTqQLdn/view?usp=share_link)**
