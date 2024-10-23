@@ -23,7 +23,7 @@ Email ID: \[firstname\]\[lastname\]@gmail.com
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Aug 2024:</b></td><td>In Bangkok to attend ACL 2024. Excited to learn and connect with the NLP community! Edit: Honoured that our work, <i>RomanSetu</i>, has received the ACL 2024 Senior Area Chair Award.</id></td></tr>
+  <tr><td><b>Aug 2024:</b></td><td>In Bangkok to attend ACL 2024. Excited to learn and connect with the NLP community! Edit: Honoured that our work, <i>RomanSetu</i>, has received the ACL 2024 Senior Area Chair Award.</td></tr>
   <tr><td><b>Apr 2024:</b></td><td>Our work, <i>RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models models via Romanization.</i> has been accepted at ACL 2024 Main Conference!</td></tr>
   <tr><td><b>Feb 2024:</b></td><td>Delighted to announce that our undergraduate work has been accepted at LREC-COLING 2024 Main Conference! Grateful to Prof. Mansi Radke for her continuous support and guidance.</td></tr>
   <tr><td><b>Jan 2024:</b></td><td>Announcing our first Hindi instruction-tuned model Airavata. Do read the technical report for more details!</td></tr>
