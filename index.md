@@ -23,6 +23,8 @@ Email ID: \[firstname\]\[lastname\]@gmail.com
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>Mar 2026:</b></td><td>Our survey, <i>Scripts Through Time: A Survey of the Evolving Role of Transliteration in NLP.</i> has been accepted at ACL 2026 Findings!</td></tr>
+  <tr><td><b>Feb 2026:</b></td><td>Our benchmark, <a href="https://arxiv.org/abs/2602.22125">IndicIFEval: A Benchmark for Verifiable Instruction-Following Evaluation in 14 Indic Languages</a> is now out!</td></tr>
   <tr><td><b>Nov 2025:</b></td><td>I am attending EMNLP2025 @ Suzhou, China. Catch us at our tutorial <a href="https://ai4bharat.github.io/multilingual-llm-expand-emnlp-2025/">Data and Model Centric Approaches for Expansion of Large Language Models to New languages</a> on Nov 8, 14:30 UTC+08</td></tr>
   <tr><td><b>Jan 2025:</b></td><td>Admitted to the Masters in Data Science and AI program at IIT Madras.</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>In Bangkok to attend ACL 2024. Excited to learn and connect with the NLP community! Edit: Honoured that our work, <i>RomanSetu</i>, has received the ACL 2024 Senior Area Chair Award.</td></tr>
