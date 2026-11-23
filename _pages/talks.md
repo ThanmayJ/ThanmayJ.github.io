@@ -6,8 +6,10 @@ order: 2
 ---
 
 **2025**
-* Presented a primer on multilingual instruction tuning at EMNLP 2025. [[Recording]](https://www.youtube.com/watch?v=x-Y2F9hg-EI) [[Slides]](https://confcats-event-sessions.s3.amazonaws.com/lrec24/slides/3378.pdf)*
-* Presented our undergrad paper on Open Information Extraction at LREC-COLING 2024. [[Recording]](https://confcats-event-sessions.s3.amazonaws.com/lrec24/videos/3378.mp4) [[Tutorial Homepage]](https://ai4bharat.github.io/multilingual-llm-expand-emnlp-2025/)
+* Presented a primer on multilingual instruction tuning at EMNLP 2025. [[Recording]](https://www.youtube.com/watch?v=x-Y2F9hg-EI) [[Tutorial Homepage]](https://ai4bharat.github.io/multilingual-llm-expand-emnlp-2025/) 
+
+**2024**
+* Presented our undergrad paper on Open Information Extraction at LREC-COLING 2024. [[Recording]](https://confcats-event-sessions.s3.amazonaws.com/lrec24/videos/3378.mp4) [[Slides]](https://confcats-event-sessions.s3.amazonaws.com/lrec24/slides/3378.pdf)
 
 **2023**
 * Presented our project on Legal LLMs at the Natural Legal Language Workshop, EMNLP at Singapore. [[Recording]](https://youtu.be/NY-SxAVUaqk?t=6465)
