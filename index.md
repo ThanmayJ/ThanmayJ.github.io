@@ -24,6 +24,7 @@ Email ID: \[firstname\]\[lastname\]@gmail.com
 <col width="100px">
 <col width="650px">
   <tr><td><b>Nov 2025:</b></td><td>I am attending AACL-2026 @ Hengqin, China. Catch us at our presentation of <a href="https://aclanthology.org/2026.aacl-long.130.pdf">IndicIFEval: A Benchmark for Verifiable Instruction-Following Evaluation in 14 Indic Languages</a> on Nov 8</td></tr>
+  <tr><td><b>Oct 2026:</b></td><td>Contributed to <a href="https://arxiv.org/pdf/2610.26006v1">Indic-LLM-Eval-Suite</a>, a comprehensive evaluation framework for Indic language models, developed in collaboration with NVIDIA and AI4Bharat.</td></tr>
   <tr><td><b>Mar 2026:</b></td><td>Our survey, <i>Scripts Through Time: A Survey of the Evolving Role of Transliteration in NLP.</i> has been accepted at ACL 2026 Findings!</td></tr>
   <tr><td><b>Feb 2026:</b></td><td>Our benchmark, <a href="https://arxiv.org/abs/2602.22125">IndicIFEval: A Benchmark for Verifiable Instruction-Following Evaluation in 14 Indic Languages</a> is now out!</td></tr>
   <tr><td><b>Nov 2025:</b></td><td>I am attending EMNLP2025 @ Suzhou, China. Catch us at our tutorial <a href="https://ai4bharat.github.io/multilingual-llm-expand-emnlp-2025/">Data and Model Centric Approaches for Expansion of Large Language Models to New languages</a> on Nov 8, 14:30 UTC+08</td></tr>
